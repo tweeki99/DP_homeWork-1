@@ -1,0 +1,6 @@
+C:\Users\Shipa\source\repos\DpHw-1.car\DpHw-1.Computer\bin\Debug\DpHw-1.Computer.exe.config
+C:\Users\Shipa\source\repos\DpHw-1.car\DpHw-1.Computer\bin\Debug\DpHw-1.Computer.exe
+C:\Users\Shipa\source\repos\DpHw-1.car\DpHw-1.Computer\bin\Debug\DpHw-1.Computer.pdb
+C:\Users\Shipa\source\repos\DpHw-1.car\DpHw-1.Computer\obj\Debug\DpHw-1.Computer.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\DpHw-1.car\DpHw-1.Computer\obj\Debug\DpHw-1.Computer.exe
+C:\Users\Shipa\source\repos\DpHw-1.car\DpHw-1.Computer\obj\Debug\DpHw-1.Computer.pdb
